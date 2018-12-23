@@ -12,7 +12,8 @@ __pycache__/
 *.ini
 
 # local
-.json
+vk_config.v2.json
+
 
 # Distribution / packaging
 .Python
@@ -78,6 +79,7 @@ venv.bak/
 .venv/
 
 ### VisualStudioCode ###
+.vscode/
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
